@@ -1,0 +1,4 @@
+CC1=CC2=C(C=C1C(=C)C3=CC=C(C=C3)C(=O)O)C(CCC2(C)C)(C)C
+CC(=CC=CC(C)=CC(=O)O)c1cc(-c2ccc(F)cc2)cc(C(C)C)c1OCC(F)F
+CC(=CC=CC(C)=CC(=O)O)c1cc(C(C)(C)C)cc(C(C)(C)C)c1OCC(F)F
+CC1=C(C=CC(C)=CC=CC(C)=CC(=O)O)C(C)(C)CCC1
