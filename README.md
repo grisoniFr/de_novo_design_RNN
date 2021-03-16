@@ -190,30 +190,31 @@ If you use this code (or parts thereof), please cite it as:
 
 ```
 @article{grisoni2020,
-  title={Bidirectional Molecule Generation with Recurrent Neural Networks},
-  author={Grisoni, Francesca and Moret, Michael and Lingwood, Robin and Schneider, Gisbert},
-  journal={Journal of Chemical Information and Modeling},
-  volume={60},
-  number={3},
-  pages={1175–1183}, 
-  year={2020},
-  doi = {10.1021/acs.jcim.9b00943},
-  url = {https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943},
- publisher={ACS Publications}
+  title         = {Bidirectional Molecule Generation with Recurrent Neural Networks},
+  author        = {Grisoni, Francesca and Moret, Michael and Lingwood, Robin and Schneider, Gisbert},
+  journal       = {Journal of Chemical Information and Modeling},
+  volume        = {60},
+  number        = {3},
+  pages         = {1175–1183}, 
+  year          = {2020},
+  doi           = {10.1021/acs.jcim.9b00943},
+  url           = {https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943},
+ publisher      = {ACS Publications}
 }
 ```
 
 ```
-@article{grisoni2021,
-  title={Bidirectional Molecule Generation with Recurrent Neural Networks},
-  author={Grisoni, Francesca and Schneider, Gisbert},
-  journal={Journal of Chemical Information and Modeling},
-  volume={60},
-  number={3},
-  pages={1175–1183}, 
-  year={2020},
-  doi = {10.1021/acs.jcim.9b00943},
-  url = {https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943},
- publisher={ACS Publications}
-}
+@incollection{grisoni2021,
+  author       = {Grisoni, Francesca and Schneider, Gisbert},
+  title        = {De novo Molecule Design with Chemical Language Models},
+  booktitle    = {Artfificial Intelligence in Drug Design},
+  publisher    = {Springer},
+  year         = 2021,
+  volume       = {},
+  series       = {Methods in Molecular Biology},
+  chapter      = {},
+  pages        = {201-213},
+  address      = {The address of the publisher},
+  edition      = {}
+  }
 ```
