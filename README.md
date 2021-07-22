@@ -14,7 +14,7 @@ The code for the following two methods is provided:
 In addition to the method code, several pre-trained models are included.
 
 **Note!** 
-This repository contains the code for the hands-on chapter: "" and has a teaching purpose only. <div>
+This repository contains the code for the hands-on chapter: "De novo Molecule Design with Chemical Language Models" and has a teaching purpose only. <div>
 To use the most up-to-date versions of the methods, have a look at the following repositories:
 * https://github.com/ETHmodlab/BIMODAL for BIMODAL.
 * https://github.com/ETHmodlab/virtual_libraries for unidirectional RNNs.
