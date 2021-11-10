@@ -8,7 +8,7 @@
 # De novo molecule design with chemical language models
 
 In this repository, you will find a hands-on tutorial to generate focused libraries using RNN-based chemical language models.<div>
-This code serves as a support to to the protocol chapter: Grisoni F., Schneider G. (2022) De Novo Molecular Design with Chemical Language Models. In: Heifetz A. (eds) Artificial Intelligence in Drug Design. Methods in Molecular Biology, vol 2390. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-1787-8_9 <div>
+This code serves as a support to to the protocol chapter: Grisoni F., Schneider G. (2022) *De Novo Molecular Design with Chemical Language Models*. In: Heifetz A. (eds) Artificial Intelligence in Drug Design. Methods in Molecular Biology, vol 2390. Humana, New York, NY. https://doi.org/10.1007/978-1-0716-1787-8_9 <div>
     
 The code for the following two methods is provided:
 * **Bidirectional Molecule Design by Alternate Learning** (BIMODAL), designed for SMILES generation – see [Grisoni *et al.* 2020](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00943).
